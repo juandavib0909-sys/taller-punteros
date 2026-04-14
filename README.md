@@ -1,3 +1,3 @@
-#Integrantes
-Juan David Bohorquez Quiroga
+#Integrantes|
+Juan David Bohorquez Quiroga |
 Juan Antonio Bonett
